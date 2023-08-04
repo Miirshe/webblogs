@@ -1,0 +1,17 @@
+
+@media (max-width:1020px){
+    .showList{
+        display: block;
+    }
+    .HideList{
+        display: none;
+    }
+}
+@media (max-width:638px){
+    .showList{
+        display: block;
+    }
+    .HideList{
+        display: none;
+    }
+}
